@@ -1,8 +1,14 @@
 # AutoMLWeb
 
-A beautiful and interactive Streamlit web app for automatic machine learning (AutoML) on any CSV file.  
+An interactive Streamlit web app for automatic machine learning (AutoML) on any CSV file.  
 **This project is designed for Apple Silicon (M1/M2/M3) environments.**
 
+<div align="center">
+  <p class="image-cropper">
+    <img src="autoMl.gif" width="600"/>
+  </p>
+  <em>Auto ML Web Interface</em>
+</div>
 ---
 
 ## Features
